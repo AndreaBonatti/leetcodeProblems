@@ -1,4 +1,4 @@
-class Solution {
+class Solution0119 {
     fun getRow(rowIndex: Int): List<Int> {
         if (rowIndex == 0) {
             return listOf(1)
